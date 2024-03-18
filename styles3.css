@@ -1,4 +1,11 @@
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  /* Add styles for screens smaller than 768px */
+}
 
+@media only screen and (max-width: 576px) {
+  /* Add styles for screens smaller than 576px */
+}
 
 html{
     font-size: 15px;

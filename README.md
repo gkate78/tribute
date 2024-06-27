@@ -1,4 +1,4 @@
-# Tribute
+# Tribute to Venerable Aloysius Schwartz
 [Tribute Page](https://gkate78.github.io/tribute/) - Certification Project at [freeCodeCamp.org](https://www.freecodecamp.org/gkate78)
 
 This tribute page is one of the required projects to earn a certification in Responsive Web Design from FreeCodeCamp, with an Objective: Build an app that is functionally similar to [https://tribute-page.freecodecamp.rocks](https://tribute-page.freecodecamp.rocks/).
